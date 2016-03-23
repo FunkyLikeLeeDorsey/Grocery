@@ -1,0 +1,33 @@
+/*css/firstcss.css*/
+
+body {
+    font-family: Tahoma, Geneva, sans-serif;
+    background-color: aliceblue;
+}
+
+}
+footer {
+    font-size: x-small;
+}
+
+#entry {
+    background-color: lightpink;
+}
+
+#list {
+    background-color: ghostwhite;
+}
+
+#entry, #list {
+    display: inline-block;
+    vertical-align: top;
+    border: solid 1px #ccc;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+li {
+    display: inline;
+    float: right;
+    margin-right: 5px;
+}
